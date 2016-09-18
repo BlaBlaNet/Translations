@@ -1,0 +1,19 @@
+
+En konto har blitt laget hos {{$sitename}} for denne epostadressen. 
+Innloggingsdetaljene er som følger:
+
+Nettstedets plassering:⇥{{$siteurl}}
+Innloggingsnavn:⇥{{$email}}
+Passord: (passordet som ble oppgitt under registreringen)
+
+Hvis denne kontoen ble laget uten din kjennskap og den ikke er ønsket, så kan du 
+besøke dette nettstedet og tilbakestille passordet. Dette vil la deg fjerne 
+kontoen med lenkene på siden Innstillinger, og vi 
+beklager bryet. 
+
+Takk skal du ha og velkommen til {{$sitename}}.
+
+Beste hilsen,
+	{{$sitename}} administrator
+
+ 

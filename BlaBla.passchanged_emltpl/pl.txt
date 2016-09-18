@@ -1,0 +1,20 @@
+
+Drogi {{$username}},
+	Your password has been changed as requested. Please retain this 
+information for your records (or change your password immediately to 
+something that you will remember).
+
+
+Dane logowania są następujące:
+
+Lokalizacja strony:⇥{{$siteurl}}
+Login:⇥{{$email}}
+Hasło:⇥{{$new_password}}
+
+Możesz zmienić hasło na stronie ustawień swojego konta po zalogowaniu.
+
+
+Z poważaniem,
+	Administrator {{$sitename}}
+
+ 

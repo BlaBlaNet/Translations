@@ -1,0 +1,32 @@
+
+Hei, {{$username}},
+	Vi mottok nyleg spørsmål frå {{$sitename}} om å tilbakestille kontoen sitt 
+passord. For å bekrefte dette, trykk verifikasjonslenken
+under, eller lim den inn i adressefeltet på nettlesaren.  
+
+Viss du IKKJE har bedt om denne endringa, ver vennleg å IKKJE følg lenka
+vedlagt, og sjå bort frå eller slett denne e-posten.  
+
+Passordet ditt vil ikkje bli endra med mindre vi kan verifisere at du 
+har bedt om dette.  
+
+Følg denne lenka for å verifisere din identitet: 
+
+{{$reset_link}}
+
+Du vil deretter motta ein ny e-post med ditt nye passord. 
+
+Du kan endre dette passordet under kontoinnstillinger etter at du har logga inn. 
+
+Login-detaljane er slik: 
+
+Site Location:⇥{{$siteurl}}
+Login Name:⇥{{$email}}
+
+
+
+
+Beste helsing, 
+	{{$sitename}} administrator
+
+ 

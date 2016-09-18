@@ -1,0 +1,13 @@
+Hei 
+Eg er webtenaren på {{$sitename}};
+   
+Utviklarane til The Red Matrix slapp nyleg oppdateringa {{$update}}, 
+men når eg prøvde å installere det, så gjekk noko frykteleg galt.  
+Dette må fiksast raskt, og det krev menneskeleg inngripen.  
+Kontakt ein utviklar frå Red viss du ikkje kan finne ut korleis 
+du fiksar det på eiga hand. Databasen min kan vera ugyldig.  
+
+Feilmeldinga er '{{$error}}'.   
+
+Beklagar bryderiet,  
+	webtenaren din på {{$siteurl}}

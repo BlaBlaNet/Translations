@@ -1,0 +1,32 @@
+
+Kjære {{$username}},
+	En forespørsel ble nylig mottatt hos {{$sitename}} for å tilbakestille din konto sitt 
+passord. For å bekrefte denne forespørselen, vennligst velg bekreftelseslenken
+nedenfor eller lim den inn i din nettlesers adresselinje. 
+
+Hvis du IKKE forespurte om denne endringen, vennligst IKKE følg lenken
+oppgitt her og ignorer og/eller slett denne eposten. 
+
+Ditt passord vil ikke bli endret med mindre vi kan få bekreftet at du
+laget denne forespørselen. 
+
+Følg denne lenken for å bekrefte din identitet:
+
+{{$reset_link}}
+
+Du vil deretter motta en oppfølgingsmelding med det nye passordet.
+
+Du kan endre det passordet fra din side for kontoinnstillinger etter innlogging.
+
+Innloggingsdetaljene er som følger:
+
+Nettstedets plassering:⇥{{$siteurl}}
+Innloggingsnavn:⇥{{$email}}
+
+
+
+
+Beste hilsen,
+	{{$sitename}} administrator
+
+ 

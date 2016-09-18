@@ -1,0 +1,13 @@
+Hej, 
+Jestem serwerem na {{$sitename}};
+   
+Deweloperzy Red Matrix wydali niedawno aktualizację {{$update}}, 
+ale kiedy próbowałem ją zainstalować, coś poszło nie tak.  
+To musi być naprawione jak najszybciej i wymaga interwencji człowieka. 
+Proszę skontaktować się z deweloperem Red jeśli nie wiesz jak 
+naprawić to samemu. Moja baza danych może być niepoprawna. 
+
+Wiadomość błędu to '{{$error}}'.   
+
+Przepraszam za wszelkie niedogodności, 
+	twój serwer na {{$siteurl}}

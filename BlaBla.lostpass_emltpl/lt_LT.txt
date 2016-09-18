@@ -1,0 +1,32 @@
+
+Brangus {{$username}},
+	Neseniai buvo gautas prašymas iš naujo nustatyti paskyrą {{ SITENAME}} $  
+slaptažodis . Siekiant patvirtinti šį prašymą, prašome paspausti patvirtinimo nuorodą
+below or paste it into your web browser address bar. 
+
+If you did NOT request this change, please DO NOT follow the link
+provided and ignore and/or delete this email. 
+
+Your password will not be changed unless we can verify that you
+issued this request. 
+
+Paspauskite šią nuorodą, kad patvirtintumėte savo tapatybę:
+
+{{$reset_link}}
+
+Tada Jūs gausite tolesnį pranešimą, kuriame yra naujas slaptažodis .
+
+Jūs galite pakeisti slaptažodį savo paskyros nustatymų puslapyje po prisijungimo .
+
+Prisijungimo detalės yra šios:
+
+Tinklapio vieta:⇥{{$siteurl}}
+Prisijungimo vardas:⇥{{$email}}
+
+
+
+
+Nuoširdžiai,
+	{{$sitename}} Administratorius
+
+ 

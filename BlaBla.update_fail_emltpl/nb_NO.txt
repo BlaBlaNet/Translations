@@ -1,0 +1,13 @@
+Hei, 
+Jeg er web-tjenesten hos {{$sitename}};
+   
+Red Matrix-utviklerne publiserte oppdateringen {{$update}} nettopp, 
+men da jeg forsøkte å installere den, så gikk noe fryktelig galt.  
+Dette må fikses raskt og krever menneskelig inngripen. 
+Vennligst kontakt en Red-utvikler hvis du ikke finner ut hvordan 
+du fikser dette på egenhånd. Min database kan være ugyldig. 
+
+Feilmeldingen er '{{$error}}'.   
+
+Unnskyld bryet, 
+	din webtjeneste hos {{$url}}

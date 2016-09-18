@@ -1,0 +1,24 @@
+
+En ny forespørsel om brukerregistrering ble mottatt hos {{$sitename}} som krever 
+din godkjenning. 
+
+
+Innloggingsdetaljene er som følger:
+
+Nettstedets plassering:⇥{{$siteurl}}
+Innloggingsnavn:⇥{{$email}}
+IP-adresse: {{$details}}
+
+For å godkjenne denne forespørselen, vennligst besøk følgende lenke:
+
+
+{{$siteurl}}/regmod/allow/{{$hash}} 
+
+
+For å avslå forespørselen og fjerne kontoen, vennligst besøk:
+
+
+{{$siteurl}}/regmod/deny/{{$hash}}
+
+
+Tusen takk.

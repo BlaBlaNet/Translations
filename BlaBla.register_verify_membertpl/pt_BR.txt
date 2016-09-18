@@ -1,0 +1,24 @@
+
+Obrigado por registrar-se em {{$sitename}}.
+
+Seus detalhes de autenticação são os seguintes:
+
+Localização do site: {{$siteurl}}
+Nome: {{$email}}
+
+O acesso se dará com a senha que você escolheu ao registrar-se.
+
+Antes, é preciso verificar seu endereço de e-mail para garantir-lhe acesso.
+
+Se você registrou essa conta, por favor visite o link abaixo:
+
+{{$siteurl}}/regver/allow/{{$hash}} 
+
+
+Para recusar o registro e remover a conta, por favor visite:
+
+
+{{$siteurl}}/regver/deny/{{$hash}}
+
+
+Muito obrigado.
